@@ -13,6 +13,9 @@
 # 语言
 ## Python
 ## C
+# 系统
+## windows
+## Linux
 * 测试
 >结构
 >>>test
